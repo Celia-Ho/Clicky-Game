@@ -6,5 +6,5 @@
 
 #### Built with React. Check it out [here](https://Celia-Ho.github.io/Clicky-Game/).
 
-Tools/languages used:  React.js, JavaScript, Bootstrap, CSS, HTML, Git
+## Tools/languages used:  React.js, Node.js, JavaScript, Bootstrap, CSS, HTML, Git
 
