@@ -1,6 +1,6 @@
 .wrapper {
-  background-image: url('https://images.designtrends.com/wp-content/uploads/2016/04/06124319/Snoopy-Fishing-Wallpaper.jpg');
-  height: 100%;
+  background-image: url('./../../assets/img/bg.jpg');
+  height: 160vh;
   display: flex;
   flex-flow: row wrap;
   justify-content: space-around;
